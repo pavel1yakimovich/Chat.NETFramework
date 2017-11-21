@@ -5,16 +5,18 @@
 
 <div class="main">
     <div class="form-group" id="loginBlock">
-        <input id="txtUserName" type="text" class="form-control" placeholder="Type your login...">
-    </div>
-    <div class="form-group">
-        <button id="btnLogin" class="btn btn-outline-primary btn-lg" type="submit">Enter chat!</button>
+        <div class="form-group">
+            <input id="txtUserName" type="text" class="form-control" placeholder="Type your login...">
+        </div>
+        <div class="form-group">
+            <button id="btnLogin" class="btn btn-outline-primary btn-lg" type="submit">Enter chat!</button>
+        </div>
     </div>
     <div id="chatBody">
         <div id="header"></div>
-        <div id="inputForm" class="form-group" >
-            <input type="text" id="message" class="form-control form-group" placeholder="Type your message here"/>
-            <button type="button" class="btn btn-outline-info form-group"  id="sendmessage">Send</button>
+        <div id="inputForm" class="form-group">
+            <input type="text" id="message" class="form-control form-group" placeholder="Type your message here" />
+            <button type="button" class="btn btn-outline-info form-group" id="sendmessage">Send</button>
         </div>
         <div id="chatroom" class="form-group"></div>
 
@@ -27,5 +29,7 @@
 </div>
 
 <script src="~/Scripts/jquery-1.10.2.min.js"></script>
-<!--auto generated scirpt of hub SignalR -->
 <script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+<!--auto generated scirpt of hub SignalR -->
+<script src="~/signalr/hubs"></script>
+<script src="~/Scripts/chat.js"></script>

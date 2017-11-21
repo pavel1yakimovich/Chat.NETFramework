@@ -10,6 +10,11 @@ namespace Chat.Hubs
     {
         private static List<User> users = new List<User>();
 
+        public void Send(string name, string msg)
+        {
+            Clients.All.addMessage(name, msg);
+        }
+
         public void Connect(string userName)
         {
             var id = Context.ConnectionId;

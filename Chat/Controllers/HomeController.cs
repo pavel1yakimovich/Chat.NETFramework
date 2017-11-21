@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace Chat.Controllers
 {
-    public class HomeController : Controller
+    public class ChatController : Controller
     {
         public ActionResult Index()
         {
@@ -15,15 +15,6 @@ namespace Chat.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
     }

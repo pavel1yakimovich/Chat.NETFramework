@@ -65,3 +65,14 @@ D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.AI.Web.xml
 D:\Learning\MyProjects\Chat.NETFramework\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
 D:\Learning\MyProjects\Chat.NETFramework\Chat\obj\Debug\Chat.dll
 D:\Learning\MyProjects\Chat.NETFramework\Chat\obj\Debug\Chat.pdb
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.Owin.dll
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.Owin.Security.dll
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Owin.dll
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.Owin.xml
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Learning\MyProjects\Chat.NETFramework\Chat\bin\Microsoft.Owin.Security.xml
